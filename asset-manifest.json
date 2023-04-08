@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/iPod/static/css/main.328e334c.css",
+    "main.js": "/iPod/static/js/main.320e23c8.js",
+    "static/media/allsongs.gif": "/iPod/static/media/allsongs.0c6197b33ac50e54c7fa.gif",
+    "static/media/Calm-Down.mp3": "/iPod/static/media/Calm-Down.6f450bc378d8896dfbd3.mp3",
+    "static/media/Imagine-Dragons-Bones.mp3": "/iPod/static/media/Imagine-Dragons-Bones.e6a32e06c9aaa13af6ad.mp3",
+    "static/media/Shape-Of-You.mp3": "/iPod/static/media/Shape-Of-You.cd42720360c30fb9f62d.mp3",
+    "static/media/coverflow.png": "/iPod/static/media/coverflow.eb883fee3adddc1e1b74.png",
+    "static/media/wallpaper5.jpg": "/iPod/static/media/wallpaper5.aaad94256e4943b54958.jpg",
+    "static/media/games.jpeg": "/iPod/static/media/games.9b211f3c418d88461cbb.jpeg",
+    "static/media/Shape_Of_You.png": "/iPod/static/media/Shape_Of_You.2a9fd851a2261f938d4d.png",
+    "static/media/wallpaper1.webp": "/iPod/static/media/wallpaper1.d1699f8a441cfc24532f.webp",
+    "static/media/calm Down.webp": "/iPod/static/media/calm Down.1c40c85a31ffff8589f1.webp",
+    "static/media/albums.png": "/iPod/static/media/albums.38e08ff7bee4fca59bb8.png",
+    "static/media/wallpaper4.jpg": "/iPod/static/media/wallpaper4.e553823f99e2e6fcdf63.jpg",
+    "static/media/artists.png": "/iPod/static/media/artists.9320ce264b6dc3e988f3.png",
+    "static/media/bones.jpg": "/iPod/static/media/bones.19b2823ec7f07cf5aa06.jpg",
+    "static/media/wallpaper2.webp": "/iPod/static/media/wallpaper2.2c9a7c62ff66a304f8bb.webp",
+    "index.html": "/iPod/index.html",
+    "main.328e334c.css.map": "/iPod/static/css/main.328e334c.css.map",
+    "main.320e23c8.js.map": "/iPod/static/js/main.320e23c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328e334c.css",
+    "static/js/main.320e23c8.js"
+  ]
+}
